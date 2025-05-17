@@ -1,5 +1,6 @@
 # Hi there, I'm [Yoon1747] 👋
 <div align = center>
+  
 ## Skills
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -8,10 +9,10 @@
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon1747&show_icons=true&theme=radical)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon1747&show_icons=true&theme=solarized-light)
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Yoon1747=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoon1747&layout=compact&theme=solarized-light)
 
 </div>
