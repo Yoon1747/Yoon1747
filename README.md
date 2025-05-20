@@ -6,7 +6,7 @@
 <br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon1747&theme=gruvbox_light&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon1747&theme=gruvbox_light&show_icons=true) -->
 
 
 <br/>
